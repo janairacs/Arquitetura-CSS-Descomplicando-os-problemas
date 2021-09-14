@@ -1,0 +1,4 @@
+/*Estilização do menu */
+.menu__lista {
+    display: flex;
+}
